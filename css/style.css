@@ -45,7 +45,7 @@ div{
     background-color: #ff0000;
     margin-left: 50px;
     text-align: right;
-    border-width: 0px 0px 5px 2px;
+    border-width: 0px 0px 2px 5px;
 }
 .blue{
     background-color: #0000FF;
@@ -78,6 +78,6 @@ footer{
 }
 footer p{
     font-size: 20px;
-    padding: 15px 15px 15px;
+    padding: 15px 15px 15px 0px;
     text-align: right;
 }
